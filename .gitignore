@@ -3,5 +3,10 @@ __pycache__/
 *.un~
 *~
 .idea/
-build/*
-dist/*
+build/
+dist/
+venv/
+.vscode/
+.mypy_cache
+*.egg-info
+
